@@ -25,4 +25,4 @@ https://kkato0219.github.io/corporate-landing-page/
 ## Screenshot
 ![home section](images/hero.png)
 ![service section](images/services.png)
-![pricing section](images/services.png)
+![pricing section](images/pricing.png)
