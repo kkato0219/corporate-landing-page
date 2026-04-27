@@ -1,6 +1,6 @@
 # Corporate Landing Page
 
-A responsive corporate landing page built with HTML, CSS, and JavaScript.
+A responsive corporate landing page built with HTML, and CSS.
 
 ## Live Demo
 https://kkato0219.github.io/corporate-landing-page/
@@ -20,7 +20,6 @@ https://kkato0219.github.io/corporate-landing-page/
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Screenshot
 ![home section](images/hero.png)
